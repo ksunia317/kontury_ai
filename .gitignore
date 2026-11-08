@@ -1,7 +1,6 @@
 *.docx  
 __pycache__/  
 build/
-dist/
 *.pyc
 venv/
  
